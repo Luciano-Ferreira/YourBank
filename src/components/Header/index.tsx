@@ -14,7 +14,6 @@ export function Header({ onOpenNewTransactionModal }:IHeaderProps) {
                     Nova transação
                 </button>
             </Content>
-            
         </Container>
     )
 }
